@@ -1,2 +1,2 @@
 # Dungeon-Crawler-Game
-A procedurally generated dungeon crawling game
+A procedurally generated dungeon crawling game with items, equippables, different enemy types, levelling, and difficulty increasing as levels continue. This project took a few weeks to finish whilst working on casually. Although the inheritance between classes gets quite complex at times, I broke most of the project up in to individual files of a smaller size to make the code more readable and editable so there's not as much commenting done here as in my other projects.
